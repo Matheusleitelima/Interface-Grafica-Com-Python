@@ -1,0 +1,24 @@
+# Sistema com Interface Gráfica e Banco de Dados
+
+Este projeto demonstra a integração entre uma interface gráfica e um banco de dados, permitindo a manipulação eficiente de dados e proporcionando uma melhor experiência para o usuário.
+
+## Benefícios da Interface Gráfica
+- Agiliza a manipulação de dados.
+- Reduz a ocorrência de erros.
+- Proporciona uma experiência mais amigável ao usuário.
+
+## Integração com Banco de Dados
+- Permite que os dados sejam manipulados de forma livre.
+- Suporta operações **CRUD** (Create, Read, Update, Delete).
+
+## Componentes Principais
+- **Caixas de texto**: Para entrada de dados pelo usuário.
+- **Botões**: Para executar ações como salvar, editar e deletar.
+- **Grades de exibição de dados**: Para visualizar informações armazenadas.
+
+## Criação de Tabelas e Geração de Dados
+- Utiliza a biblioteca **Faker** para gerar grandes volumes de dados fictícios, úteis para testes do sistema.
+
+## Interação entre Sistema e Banco de Dados
+- Todas as operações realizadas na interface gráfica são refletidas no banco de dados.
+- Permite consulta, inserção, atualização e remoção de dados de forma eficiente.
